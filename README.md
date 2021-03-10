@@ -1,3 +1,4 @@
 # Peter-Pictures
-My first repository on Github/n
+My first repository on Github
+
 存放图片
